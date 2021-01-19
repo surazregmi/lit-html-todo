@@ -1,0 +1,5 @@
+# ignore node modules to git 
+node_modules
+
+#ignore vscode settings
+.vscode
